@@ -3,7 +3,7 @@
 
   
 ## 🚀 About Me
-I'm currently working as a freelancer on Fiver 📊📊 I am an Open Source Lover and Women in Tech Advocate👩🏽‍💻! I also enjoy mentoring people. When offline, I sketch  and read 📚. <br>
+I'm currently working as a freelancer on Upwork 📊📊 I am an Open Source Lover and Women in Tech Advocate👩🏽‍💻! I also enjoy mentoring people. When offline, I sketch  and read 📚. <br>
 
 <!--I am currently looking for new roles as a:
 - Data Scientist
